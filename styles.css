@@ -68,12 +68,15 @@ h1 { margin: 0 0 12px; font-size: clamp(2rem, 5vw, 3.6rem); }
   background: #fff;
 }
 .option:hover { border-color: var(--brand); }
-button {
+button,
+.button-link {
   border: 0;
   border-radius: 12px;
   padding: 13px 18px;
   font-weight: 800;
   cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
 }
 .primary { color: #fff; background: var(--brand); }
 .secondary { color: var(--brand); background: #e8efff; }
