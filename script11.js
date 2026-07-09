@@ -1,1305 +1,1306 @@
 const questions = [
   {
-    "cat": "Current Affairs",
-    "kn": "Global Destination Development project destinations recommended by Karnataka in June 2026?",
-    "en": "Global Destination Development project destinations recommended by Karnataka in June 2026?",
+    "cat": "Constitution & GK",
+    "kn": "ಹೊರಾಂಗಣ ಕಟ್ಟಡ ಕಾರ್ಮಿಕರಿಗಾಗಿ ಬಿಸಿಗಾಳಿ ವಿಮೆ ಜಾರಿಗೆ ತಂದ ಮೊದಲ ರಾಜ್ಯ ಯಾವುದು?",
+    "en": "Which state became the first in India to implement a localized algorithmic Heat Wave Insurance scheme for outdoor construction laborers?",
     "options": [
-      "Hampi, Mysuru and Lakkundi",
-      "Belur, Halebidu and Pattadakal",
-      "Badami, Bijapur and Bidar",
-      "Chitradurga, Gokarna and Srirangapatna"
-    ],
-    "answer": 0,
-    "summary": "The correct answer is Hampi, Mysuru and Lakkundi."
-  },
-  {
-    "cat": "Current Affairs",
-    "kn": "Girish Bharadwaj was famously known by which civilian title?",
-    "en": "Girish Bharadwaj was famously known by which civilian title?",
-    "options": [
-      "Metro Man of India",
-      "Bridge Man of India",
-      "Missile Man of India",
-      "Water Man of India"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Bridge Man of India."
-  },
-  {
-    "cat": "Current Affairs",
-    "kn": "India was elected Vice-President of which global financial-crime monitoring body for July 2026-June 2027?",
-    "en": "India was elected Vice-President of which global financial-crime monitoring body for July 2026-June 2027?",
-    "options": [
-      "Interpol",
-      "World Bank",
-      "FATF",
-      "IMF"
+      "Rajasthan / ರಾಜಸ್ಥಾನ",
+      "Karnataka / ಕರ್ನಾಟಕ",
+      "Telangana / ತೆಲಂಗಾಣ",
+      "Maharashtra / ಮಹಾರಾಷ್ಟ್ರ"
     ],
     "answer": 2,
-    "summary": "The correct answer is FATF."
+    "summary": "Telangana is the correct practice answer."
   },
   {
-    "cat": "Current Affairs",
-    "kn": "Official theme of the 12th International Day of Yoga on June 21, 2026?",
-    "en": "Official theme of the 12th International Day of Yoga on June 21, 2026?",
+    "cat": "Constitution & GK",
+    "kn": "ಭಾರತದ ಮೊದಲ ಸಂಪೂರ್ಣ ಸ್ವಯಂಚಾಲಿತ AI ಅಂಚೆ ವಿಂಗಡಣಾ ಸೌಲಭ್ಯ ಯಾವ ನಗರದಲ್ಲಿ ಉದ್ಘಾಟಿಸಲಾಯಿತು?",
+    "en": "India’s first completely automated AI-driven sorting facility for post offices was inaugurated in which city?",
     "options": [
-      "Yoga for Humanity",
-      "Yoga for Healthy Ageing",
-      "Yoga for Peace and Harmony",
-      "Yoga for Women Empowerment"
+      "New Delhi / ನವದೆಹಲಿ",
+      "Bengaluru / ಬೆಂಗಳೂರು",
+      "Hyderabad / ಹೈದರಾಬಾದ್",
+      "Chennai / ಚೆನ್ನೈ"
     ],
     "answer": 1,
-    "summary": "The correct answer is Yoga for Healthy Ageing."
+    "summary": "Bengaluru is listed as the facility city."
   },
   {
-    "cat": "Current Affairs",
-    "kn": "BWSSB announced which technology for better water management under PPP model?",
-    "en": "BWSSB announced which technology for better water management under PPP model?",
+    "cat": "Constitution & GK",
+    "kn": "BSF ನೂತನ ಮಹಾನಿರ್ದೇಶಕರಾಗಿ ಯಾರು ನೇಮಕಗೊಂಡಿದ್ದಾರೆ?",
+    "en": "Who has been appointed as the new Director General of the BSF?",
     "options": [
-      "Blockchain Water Meters",
-      "AI-enabled Smart Water Meters",
-      "IoT Mechanical Valves",
-      "Satellite Rain Flow Tracking"
+      "Manoj Kumar",
+      "Daljit Singh Chawdhary",
+      "Nitin Agarwal",
+      "Sanjay Kumar"
     ],
     "answer": 1,
-    "summary": "The correct answer is AI-enabled Smart Water Meters."
+    "summary": "Daljit Singh Chawdhary is the answer."
   },
   {
-    "cat": "Current Affairs",
-    "kn": "NIMHANS launched India's first public sleep database for patients with which condition?",
-    "en": "NIMHANS launched India's first public sleep database for patients with which condition?",
+    "cat": "Constitution & GK",
+    "kn": "ತರಂಗ್ ಶಕ್ತಿ ಕವಾಯತು ಯಾವ ರಾಜ್ಯದಲ್ಲಿ ನಡೆಯಿತು?",
+    "en": "Exercise Tarang Shakti hosted by India was conducted in which state?",
     "options": [
-      "Diabetes",
-      "Stroke Patients",
-      "Alzheimers",
-      "Hypertension"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Stroke Patients."
-  },
-  {
-    "cat": "Current Affairs",
-    "kn": "Karnataka's first government-run Women's Driver Training Institute was approved at which location?",
-    "en": "Karnataka's first government-run Women's Driver Training Institute was approved at which location?",
-    "options": [
-      "Peenya, Bengaluru",
-      "Bidadi Industrial Area",
-      "Baikampady, Mangaluru",
-      "Hebbal, Mysuru"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Bidadi Industrial Area."
-  },
-  {
-    "cat": "Current Affairs",
-    "kn": "Who set a 10.09-second national record in men's 100m at the May 2026 Athletics Federation Cup?",
-    "en": "Who set a 10.09-second national record in men's 100m at the May 2026 Athletics Federation Cup?",
-    "options": [
-      "Amiya Kumar Mallick",
-      "Gurindervir Singh",
-      "Animesh Kujur",
-      "Jisna Mathew"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Gurindervir Singh."
-  },
-  {
-    "cat": "Current Affairs",
-    "kn": "Who received the UN Military Gender Advocate of the Year Award in May 2026?",
-    "en": "Who received the UN Military Gender Advocate of the Year Award in May 2026?",
-    "options": [
-      "Major Suman Gawani",
-      "Major Radhika Sen",
-      "Major Abhilasha Barak",
-      "Captain Shiva Chouhan"
-    ],
-    "answer": 2,
-    "summary": "The correct answer is Major Abhilasha Barak."
-  },
-  {
-    "cat": "Current Affairs",
-    "kn": "Which city led the 75th Fit India Sundays on Cycle national celebration in May 2026?",
-    "en": "Which city led the 75th Fit India Sundays on Cycle national celebration in May 2026?",
-    "options": [
-      "New Delhi",
-      "Ahmedabad",
-      "Bengaluru",
-      "Pune"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Ahmedabad."
-  },
-  {
-    "cat": "Indian Constitution",
-    "kn": "Which Article defines Money Bill?",
-    "en": "Which Article defines Money Bill?",
-    "options": [
-      "Article 110",
-      "Article 112",
-      "Article 114",
-      "Article 120"
+      "Jodhpur, Rajasthan",
+      "Ambala, Haryana",
+      "Jamnagar, Gujarat",
+      "Gwalior, Madhya Pradesh"
     ],
     "answer": 0,
-    "summary": "The correct answer is Article 110."
+    "summary": "Jodhpur, Rajasthan is the given location."
   },
   {
-    "cat": "Indian Constitution",
-    "kn": "Judicial Review in India is adopted from which country?",
-    "en": "Judicial Review in India is adopted from which country?",
+    "cat": "Constitution & GK",
+    "kn": "PACE ಉಪಗ್ರಹವನ್ನು ಯಾವ ಬಾಹ್ಯಾಕಾಶ ಸಂಸ್ಥೆ ಉಡಾವಣೆ ಮಾಡಿತು?",
+    "en": "Which space agency launched the PACE satellite?",
     "options": [
-      "United Kingdom",
+      "ISRO",
+      "ESA",
+      "NASA",
+      "JAXA"
+    ],
+    "answer": 2,
+    "summary": "NASA launched PACE."
+  },
+  {
+    "cat": "Constitution & GK",
+    "kn": "2026 ವಿಶ್ವ ಪತ್ರಿಕಾ ಸ್ವಾತಂತ್ರ್ಯ ಸೂಚ್ಯಂಕದಲ್ಲಿ ಭಾರತದ ಶ್ರೇಯಾಂಕ ಎಷ್ಟು?",
+    "en": "What is the rank of India in the 2026 World Press Freedom Index?",
+    "options": [
+      "150",
+      "161",
+      "159",
+      "142"
+    ],
+    "answer": 2,
+    "summary": "The practice answer is 159."
+  },
+  {
+    "cat": "Constitution & GK",
+    "kn": "ಕಳೆದುಹೋದ ಮೊಬೈಲ್ ಫೋನ್‌ಗಳನ್ನು ಪತ್ತೆ/ಬ್ಲಾಕ್ ಮಾಡಲು ಯಾವ ಪೋರ್ಟಲ್?",
+    "en": "Which portal tracks and blocks stolen or lost mobile phones across India?",
+    "options": [
+      "Sanchar Saathi",
+      "DigiLock",
+      "TAFCOP",
+      "MobileSeva"
+    ],
+    "answer": 0,
+    "summary": "Sanchar Saathi is the portal."
+  },
+  {
+    "cat": "Constitution & GK",
+    "kn": "ಕಾಜಿ ನೆಮು ಅನ್ನು ರಾಜ್ಯ ಹಣ್ಣಾಗಿ ಘೋಷಿಸಿದ ರಾಜ್ಯ ಯಾವುದು?",
+    "en": "Which state declared Kaji Nemu lemon as its official State Fruit?",
+    "options": [
+      "Tripura",
+      "Assam",
+      "Meghalaya",
+      "Manipur"
+    ],
+    "answer": 1,
+    "summary": "Assam declared Kaji Nemu as state fruit."
+  },
+  {
+    "cat": "Constitution & GK",
+    "kn": "2026 Laureus World Sportsman ಪ್ರಶಸ್ತಿ ಯಾರು ಗೆದ್ದರು?",
+    "en": "Who won the 2026 Laureus World Sportsman of the Year award?",
+    "options": [
+      "Novak Djokovic",
+      "Lionel Messi",
+      "Erling Haaland",
+      "Max Verstappen"
+    ],
+    "answer": 0,
+    "summary": "Novak Djokovic is the listed winner."
+  },
+  {
+    "cat": "Constitution & GK",
+    "kn": "World Happiness Report ಪ್ರಕಾರ ಅತ್ಯಂತ ಸಂತೋಷದ ದೇಶ ಯಾವುದು?",
+    "en": "Which country was ranked the happiest nation in the World Happiness Report?",
+    "options": [
+      "Denmark",
+      "Iceland",
+      "Finland",
+      "Norway"
+    ],
+    "answer": 2,
+    "summary": "Finland is the answer."
+  },
+  {
+    "cat": "Constitution",
+    "kn": "ಹಣಕಾಸು ಆಯೋಗಕ್ಕೆ ಅವಕಾಶ ನೀಡುವ ವಿಧಿ ಯಾವುದು?",
+    "en": "Which Article provides for a Finance Commission?",
+    "options": [
+      "Article 260",
+      "Article 280",
+      "Article 300",
+      "Article 315"
+    ],
+    "answer": 1,
+    "summary": "Article 280 is the correct answer."
+  },
+  {
+    "cat": "Constitution",
+    "kn": "ಜನರಿಗಾಗಿ, ಜನರಿಂದ ಸರ್ಕಾರ ಪೀಠಿಕೆಯಲ್ಲಿ ಯಾವ ಅಂಶ?",
+    "en": "Government of the people reflects which Preamble element?",
+    "options": [
+      "Sovereign",
+      "Socialist",
+      "Democratic",
+      "Republic"
+    ],
+    "answer": 2,
+    "summary": "Democratic is the correct answer."
+  },
+  {
+    "cat": "Constitution",
+    "kn": "ಸಂವಿಧಾನ ಸಭೆಯ ತಾತ್ಕಾಲಿಕ ಅಧ್ಯಕ್ಷ ಯಾರು?",
+    "en": "Who was interim President of the Constituent Assembly before Rajendra Prasad?",
+    "options": [
+      "B.R. Ambedkar",
+      "Sachchidananda Sinha",
+      "Jawaharlal Nehru",
+      "H.C. Mukherjee"
+    ],
+    "answer": 1,
+    "summary": "Sachchidananda Sinha is the correct answer."
+  },
+  {
+    "cat": "Constitution",
+    "kn": "ಏಕ ವರ್ಗಾವಣೆ ಮತದ ಅನುಪಾತ ಪದ್ಧತಿ ಯಾರ ಚುನಾವಣೆಯಲ್ಲಿ?",
+    "en": "Single transferable vote proportional representation is used for election of whom?",
+    "options": [
+      "Prime Minister",
+      "Governor",
+      "President of India",
+      "Speaker"
+    ],
+    "answer": 2,
+    "summary": "President of India is the correct answer."
+  },
+  {
+    "cat": "Constitution",
+    "kn": "ಪಕ್ಷಾಂತರ ನಿರೋಧಕ ಕಾಯ್ದೆ ಯಾವ ಅನುಸೂಚಿ?",
+    "en": "Anti-Defection Law is in which schedule?",
+    "options": [
+      "Eighth",
+      "Ninth",
+      "Tenth",
+      "Eleventh"
+    ],
+    "answer": 2,
+    "summary": "Tenth is the correct answer."
+  },
+  {
+    "cat": "Constitution",
+    "kn": "SPSC ಅಧ್ಯಕ್ಷರನ್ನು ತೆಗೆದುಹಾಕುವ ಅಧಿಕಾರ ಯಾರಿಗೆ?",
+    "en": "Who can remove the Chairperson of a State Public Service Commission?",
+    "options": [
+      "Governor",
+      "Chief Minister",
+      "President of India",
+      "High Court CJ"
+    ],
+    "answer": 2,
+    "summary": "President of India is the correct answer."
+  },
+  {
+    "cat": "Constitution",
+    "kn": "ದೇವನಾಗರಿ ಹಿಂದಿ ಕೇಂದ್ರದ ಅಧಿಕೃತ ಭಾಷೆ ಎನ್ನುವ ವಿಧಿ?",
+    "en": "Which Article describes Hindi in Devanagari as official language of Union?",
+    "options": [
+      "Article 343",
+      "Article 345",
+      "Article 348",
+      "Article 351"
+    ],
+    "answer": 0,
+    "summary": "Article 343 is the correct answer."
+  },
+  {
+    "cat": "Constitution",
+    "kn": "ಸಮವರ್ತಿ ಪಟ್ಟಿಯ ಕಲ್ಪನೆ ಯಾವ ದೇಶದಿಂದ?",
+    "en": "Concurrent List was inspired by which constitution?",
+    "options": [
       "USA",
       "Canada",
-      "Ireland"
+      "Australia",
+      "USSR"
     ],
-    "answer": 1,
-    "summary": "The correct answer is USA."
+    "answer": 2,
+    "summary": "Australia is the correct answer."
   },
   {
-    "cat": "Indian Constitution",
-    "kn": "Who is the ex-officio Chairman of NITI Aayog?",
-    "en": "Who is the ex-officio Chairman of NITI Aayog?",
+    "cat": "Constitution",
+    "kn": "ಮೂಲಭೂತ ಹಕ್ಕು ಜಾರಿಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ಗೆ ನೇರವಾಗಿ ಹೋಗಲು ವಿಧಿ?",
+    "en": "Which Article allows direct approach to Supreme Court for Fundamental Rights?",
+    "options": [
+      "Article 32",
+      "Article 226",
+      "Article 131",
+      "Article 143"
+    ],
+    "answer": 0,
+    "summary": "Article 32 is the correct answer."
+  },
+  {
+    "cat": "Constitution",
+    "kn": "ರಾಜ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರನ್ನು ಯಾರು ನೇಮಿಸುತ್ತಾರೆ?",
+    "en": "Who appoints the State Election Commissioner?",
     "options": [
       "President",
-      "Finance Minister",
-      "Prime Minister",
-      "Vice-President"
+      "Governor",
+      "Chief Minister",
+      "Union Election Commission"
+    ],
+    "answer": 1,
+    "summary": "Governor is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ತಲಕಾಡನ್ನು ರಾಜಧಾನಿ ಮಾಡಿಕೊಂಡ ರಾಜವಂಶ ಯಾವುದು?",
+    "en": "Which dynasty made Talakadu its primary regional capital?",
+    "options": [
+      "Kadambas",
+      "Western Gangas",
+      "Chalukyas",
+      "Rashtrakutas"
+    ],
+    "answer": 1,
+    "summary": "Western Gangas is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಶ್ರೀರಂಗಪಟ್ಟಣ ಒಪ್ಪಂದ ಯಾವ ಆಂಗ್ಲೋ-ಮೈಸೂರು ಯುದ್ಧದ ನಂತರ?",
+    "en": "Treaty handing Srirangapatna followed which Anglo-Mysore War?",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
     ],
     "answer": 2,
-    "summary": "The correct answer is Prime Minister."
+    "summary": "Third is the correct answer."
   },
   {
-    "cat": "Indian Constitution",
-    "kn": "Right to Property was removed from Fundamental Rights by which amendment?",
-    "en": "Right to Property was removed from Fundamental Rights by which amendment?",
+    "cat": "Karnataka Studies",
+    "kn": "ಕರ್ನಾಟಕದ ಜಲಿಯನ್‌ವಾಲಾ ಬಾಗ್ ಎಂದು ಕರೆಯುವ ಸ್ಥಳ?",
+    "en": "Which place is called Jallianwala Bagh of Karnataka?",
     "options": [
-      "42nd Amendment",
-      "44th Amendment",
-      "52nd Amendment",
-      "86th Amendment"
+      "Isur",
+      "Vidurashwatha",
+      "Kittur",
+      "Shivapura"
     ],
     "answer": 1,
-    "summary": "The correct answer is 44th Amendment."
-  },
-  {
-    "cat": "Indian Constitution",
-    "kn": "Which committee recommended 3-tier Panchayati Raj?",
-    "en": "Which committee recommended 3-tier Panchayati Raj?",
-    "options": [
-      "Ashok Mehta Committee",
-      "Balwant Rai Mehta Committee",
-      "Sarkaria Commission",
-      "L.M. Singhvi Committee"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Balwant Rai Mehta Committee."
-  },
-  {
-    "cat": "Indian Constitution",
-    "kn": "Maximum age for a Supreme Court judge?",
-    "en": "Maximum age for a Supreme Court judge?",
-    "options": [
-      "60 years",
-      "62 years",
-      "65 years",
-      "70 years"
-    ],
-    "answer": 2,
-    "summary": "The correct answer is 65 years."
-  },
-  {
-    "cat": "Indian Constitution",
-    "kn": "President's Rule is declared under which Article?",
-    "en": "President's Rule is declared under which Article?",
-    "options": [
-      "Article 352",
-      "Article 356",
-      "Article 360",
-      "Article 368"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Article 356."
-  },
-  {
-    "cat": "Indian Constitution",
-    "kn": "Seventh Schedule deals with what?",
-    "en": "Seventh Schedule deals with what?",
-    "options": [
-      "Salaries",
-      "Validation of Acts",
-      "Distribution of powers between Union and States",
-      "Tribal areas"
-    ],
-    "answer": 2,
-    "summary": "The correct answer is Distribution of powers between Union and States."
-  },
-  {
-    "cat": "Indian Constitution",
-    "kn": "Who administers oath to the Prime Minister?",
-    "en": "Who administers oath to the Prime Minister?",
-    "options": [
-      "Chief Justice of India",
-      "President of India",
-      "Speaker of Lok Sabha",
-      "Outgoing Prime Minister"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is President of India."
-  },
-  {
-    "cat": "Indian Constitution",
-    "kn": "Which feature means India is governed by elected representatives, not a monarch?",
-    "en": "Which feature means India is governed by elected representatives, not a monarch?",
-    "options": [
-      "Secular",
-      "Socialist",
-      "Republic",
-      "Sovereign"
-    ],
-    "answer": 2,
-    "summary": "The correct answer is Republic."
+    "summary": "Vidurashwatha is the correct answer."
   },
   {
     "cat": "Karnataka Studies",
-    "kn": "Chandravalli historical site is in which district?",
-    "en": "Chandravalli historical site is in which district?",
-    "options": [
-      "Chitradurga",
-      "Ballari",
-      "Belagavi",
-      "Dharwad"
-    ],
-    "answer": 0,
-    "summary": "The correct answer is Chitradurga."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "First Dewan of Mysore after Wodeyar restoration in 1799?",
-    "en": "First Dewan of Mysore after Wodeyar restoration in 1799?",
-    "options": [
-      "Sir K. Seshadri Iyer",
-      "Diwan Purniah",
-      "Sir M. Visvesvaraya",
-      "Sir Mirza Ismail"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Diwan Purniah."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Varahi River creates which high tiered waterfall?",
-    "en": "Varahi River creates which high tiered waterfall?",
-    "options": [
-      "Gokak Falls",
-      "Kunchikal Falls",
-      "Magod Falls",
-      "Abbey Falls"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Kunchikal Falls."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Shivapura Dhwaja Satyagraha took place in which town?",
-    "en": "Shivapura Dhwaja Satyagraha took place in which town?",
-    "options": [
-      "Maddur, Mandya",
-      "Channapatna, Ramanagara",
-      "Nanjangud, Mysuru",
-      "Tumakuru"
-    ],
-    "answer": 0,
-    "summary": "The correct answer is Maddur, Mandya."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Which district is called Coffee Capital of India?",
-    "en": "Which district is called Coffee Capital of India?",
-    "options": [
-      "Chikkamagaluru",
-      "Kodagu (Coorg)",
-      "Hassan",
-      "Chamarajanagar"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Kodagu (Coorg)."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Kalaburagi monument famous for no open courtyard?",
-    "en": "Kalaburagi monument famous for no open courtyard?",
-    "options": [
-      "Haft Gumbaz",
-      "Jamia Masjid inside Kalaburagi Fort",
-      "Khwaja Bande Nawaz Dargah",
-      "Shorapur Fort"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Jamia Masjid inside Kalaburagi Fort."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Dollu Kunitha is associated with which deity?",
-    "en": "Dollu Kunitha is associated with which deity?",
-    "options": [
-      "Lord Vishnu",
-      "Sri Beeralingeshwara",
-      "Goddess Durga",
-      "Lord Ganesha"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Sri Beeralingeshwara."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Author of Kabbigara Kava?",
-    "en": "Author of Kabbigara Kava?",
-    "options": [
-      "Andayya",
-      "Nagachandra",
-      "Janna",
-      "Pampa"
-    ],
-    "answer": 0,
-    "summary": "The correct answer is Andayya."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Kudremukh National Park spreads across which districts?",
-    "en": "Kudremukh National Park spreads across which districts?",
-    "options": [
-      "Chikkamagaluru, Udupi, Dakshina Kannada",
-      "Shivamogga, Hassan, Uttara Kannada",
-      "Mysuru, Kodagu, Chamarajanagar",
-      "Belagavi, Dharwad, Uttara Kannada"
-    ],
-    "answer": 0,
-    "summary": "The correct answer is Chikkamagaluru, Udupi, Dakshina Kannada."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Ullal queen who fought Portuguese in 16th century?",
-    "en": "Ullal queen who fought Portuguese in 16th century?",
-    "options": [
-      "Rani Chennamma",
-      "Rani Abbakka Chowta",
-      "Keladi Chennamma",
-      "Rani Mangammal"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Rani Abbakka Chowta."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Sanctuary known for Golden Mahseer conservation?",
-    "en": "Sanctuary known for Golden Mahseer conservation?",
-    "options": [
-      "Cauvery Wildlife Sanctuary",
-      "Bhadra Wildlife Sanctuary",
-      "Biligiriranga Hills",
-      "Brahmagiri Sanctuary"
-    ],
-    "answer": 0,
-    "summary": "The correct answer is Cauvery Wildlife Sanctuary."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Haridasa composer of Suladis and Ugabhogas alongside Purandara Dasa?",
-    "en": "Haridasa composer of Suladis and Ugabhogas alongside Purandara Dasa?",
-    "options": [
-      "Kanaka Dasa",
-      "Vyasatirtha",
-      "Jagannatha Dasa",
-      "Vijayadasa"
-    ],
-    "answer": 0,
-    "summary": "The correct answer is Kanaka Dasa."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "GI-tagged Ilkal Saree is linked to which district/town?",
-    "en": "GI-tagged Ilkal Saree is linked to which district/town?",
-    "options": [
-      "Bagalkote (Ilkal)",
-      "Gadag",
-      "Koppal",
-      "Haveri"
-    ],
-    "answer": 0,
-    "summary": "The correct answer is Bagalkote (Ilkal)."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Mirjan Fort is in which district?",
-    "en": "Mirjan Fort is in which district?",
-    "options": [
-      "Udupi",
-      "Dakshina Kannada",
-      "Uttara Kannada",
-      "Shimoga"
-    ],
-    "answer": 2,
-    "summary": "The correct answer is Uttara Kannada."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Electricity distribution in Bengaluru city is managed by?",
-    "en": "Electricity distribution in Bengaluru city is managed by?",
-    "options": [
-      "HESCOM",
-      "BESCOM",
-      "MESCOM",
-      "GESCOM"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is BESCOM."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Virupaksha Temple at Hampi was built under which empire?",
-    "en": "Virupaksha Temple at Hampi was built under which empire?",
-    "options": [
-      "Kadamba",
-      "Chalukya",
-      "Vijayanagara",
-      "Hoysala"
-    ],
-    "answer": 2,
-    "summary": "The correct answer is Vijayanagara."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Sri Ponna authored which text?",
-    "en": "Sri Ponna authored which text?",
-    "options": [
-      "Shantipurana",
-      "Adipurana",
-      "Ajitnath Purana",
-      "Vikramarjuna Vijaya"
-    ],
-    "answer": 0,
-    "summary": "The correct answer is Shantipurana."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Dense tropical uplands parallel to Karnataka coast are called?",
-    "en": "Dense tropical uplands parallel to Karnataka coast are called?",
-    "options": [
-      "Maidan",
-      "Bayaluseeme",
-      "Malnad",
-      "Karavali"
-    ],
-    "answer": 2,
-    "summary": "The correct answer is Malnad."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Who wrote Udayavagali Namma Cheluva Kannada Nadu?",
-    "en": "Who wrote Udayavagali Namma Cheluva Kannada Nadu?",
-    "options": [
-      "Huilgol Narayana Rao",
-      "Aluru Venkata Rao",
-      "Kuvempu",
-      "B.M. Srikanthaiah"
-    ],
-    "answer": 0,
-    "summary": "The correct answer is Huilgol Narayana Rao."
-  },
-  {
-    "cat": "Karnataka Studies",
-    "kn": "Pattadakal monuments are on which river bank?",
-    "en": "Pattadakal monuments are on which river bank?",
+    "kn": "ಕರ್ನಾಟಕದೊಳಗೆ ಸಂಪೂರ್ಣ ಹರಿಯುವ ಉದ್ದವಾದ ನದಿ?",
+    "en": "Longest river flowing entirely inside Karnataka?",
     "options": [
       "Krishna",
-      "Ghataprabha",
-      "Malaprabha",
-      "Tungabhadra"
+      "Kaveri",
+      "Tungabhadra",
+      "Sharavathi"
     ],
     "answer": 2,
-    "summary": "The correct answer is Malaprabha."
+    "summary": "Tungabhadra is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Device to measure fluid flow rate through a pipe?",
-    "en": "Device to measure fluid flow rate through a pipe?",
+    "cat": "Karnataka Studies",
+    "kn": "KPCL ಪ್ರಧಾನ ಕಚೇರಿ ಎಲ್ಲಿದೆ?",
+    "en": "Where is KPCL head office situated?",
     "options": [
-      "Venturimeter",
-      "Hydrometer",
-      "Manometer",
-      "Anemometer"
+      "Raichur",
+      "Mysuru",
+      "Bengaluru",
+      "Hubballi"
+    ],
+    "answer": 2,
+    "summary": "Bengaluru is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ವಾಣಿ ವಿಲಾಸ ಸಾಗರ ಅಣೆಕಟ್ಟು ನಿರ್ಮಿಸಿದ ಇಂಜಿನಿಯರ್?",
+    "en": "Who built Vani Vilas Sagara Dam?",
+    "options": [
+      "Sir M. Visvesvaraya",
+      "Diwan Purniah",
+      "Tara Chand",
+      "J. Pennycuick"
     ],
     "answer": 0,
-    "summary": "The correct answer is Venturimeter."
+    "summary": "Sir M. Visvesvaraya is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Chemical name of Vitamin B2?",
-    "en": "Chemical name of Vitamin B2?",
+    "cat": "Karnataka Studies",
+    "kn": "ಕಂಬಳ ಯಾವ ಪ್ರಾಣಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+    "en": "Kambala sport is associated with which animal?",
     "options": [
-      "Thiamine",
-      "Riboflavin",
-      "Niacin",
-      "Folic Acid"
+      "Bull",
+      "Horse",
+      "Buffalo",
+      "Elephant"
+    ],
+    "answer": 2,
+    "summary": "Buffalo is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಕವಿರಾಜಮಾರ್ಗ ಬರೆದವರು ಯಾರು?",
+    "en": "Who wrote Kavirajamarga?",
+    "options": [
+      "Pampa",
+      "Ranna",
+      "Amoghavarsha Nrupatunga",
+      "Janna"
+    ],
+    "answer": 2,
+    "summary": "Amoghavarsha Nrupatunga is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ದಾಂಡೇಲಿ ವನ್ಯಜೀವಿ ಧಾಮ ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿ?",
+    "en": "Dandeli Wildlife Sanctuary is in which district?",
+    "options": [
+      "Belagavi",
+      "Uttara Kannada",
+      "Shivamogga",
+      "Chikkamagaluru"
     ],
     "answer": 1,
-    "summary": "The correct answer is Riboflavin."
+    "summary": "Uttara Kannada is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Which gas turns lime water milky?",
-    "en": "Which gas turns lime water milky?",
+    "cat": "Karnataka Studies",
+    "kn": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಸ್ಥಾಪಕರು ಯಾರು?",
+    "en": "Who founded the Vijayanagara Empire?",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Carbon Dioxide",
+      "Harihara and Bukka",
+      "Krishnadevaraya",
+      "Saluva Narasimha",
+      "Sadashiva Raya"
+    ],
+    "answer": 0,
+    "summary": "Harihara and Bukka is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ದಕ್ಷಿಣ ಭಾರತದ ಚಿರಾಪುಂಜಿ ಯಾವುದು?",
+    "en": "Which hill station is called Cherrapunji of South India?",
+    "options": [
+      "Kemmangundi",
+      "Agumbe",
+      "Kudremukh",
+      "Kodachadri"
+    ],
+    "answer": 1,
+    "summary": "Agumbe is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಮೊದಲ ಪಂಪ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತರು ಯಾರು?",
+    "en": "Who was the first recipient of Pampa Award?",
+    "options": [
+      "Kuvempu",
+      "D.R. Bendre",
+      "Shivaram Karanth",
+      "Masti"
+    ],
+    "answer": 0,
+    "summary": "Kuvempu is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಇನಾಂ ದತ್ತಾತ್ರೇಯ ಪೀಠ ಎಲ್ಲಿದೆ?",
+    "en": "Where is Inam Dattatreya Peetha located?",
+    "options": [
+      "Kodagu",
+      "Chikkamagaluru",
+      "Hassan",
+      "Mandya"
+    ],
+    "answer": 1,
+    "summary": "Chikkamagaluru is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯಲ್ಲಿ ಎಷ್ಟು ಸುತ್ತಿನ ಗೋಡೆಗಳು?",
+    "en": "Chitradurga fort has how many concentric stone walls?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": 2,
+    "summary": "7 is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಶ್ರೀಗಂಧದ ಸೋಪು/ಎಣ್ಣೆ ಉತ್ಪಾದಿಸುವ ಸಂಸ್ಥೆ?",
+    "en": "Which organization produces sandalwood soap and oil?",
+    "options": [
+      "KMF",
+      "KSDL",
+      "KHDC",
+      "HMT"
+    ],
+    "answer": 1,
+    "summary": "KSDL is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಗೋಲ್ ಗುಂಬಜ್‌ನಲ್ಲಿ ಎಷ್ಟು ಪಿಸುಮಾತಿನ ಗ್ಯಾಲರಿ?",
+    "en": "How many whispering galleries are in Gol Gumbaz?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": 0,
+    "summary": "1 is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಜನ್ನ ಬರೆದ ಕೃತಿ ಯಾವುದು?",
+    "en": "Which text was written by Hoysala poet Janna?",
+    "options": [
+      "Yashodhara Charite",
+      "Gada Yuddha",
+      "Harishchandra Kavya",
+      "Leelavati"
+    ],
+    "answer": 0,
+    "summary": "Yashodhara Charite is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಬಯಲು ಪ್ರದೇಶದ ಹೆಸರು?",
+    "en": "Traditional geographic name for northern Karnataka plains?",
+    "options": [
+      "Malnad",
+      "Maidan",
+      "Coastal Line",
+      "Sahyadri"
+    ],
+    "answer": 1,
+    "summary": "Maidan is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಆಧುನಿಕ ಕನ್ನಡ ನವೋದಯದ ಪಿತಾಮಹ ಯಾರು?",
+    "en": "Who is Father of Modern Kannada Renaissance?",
+    "options": [
+      "B.M. Srikanthaiah",
+      "Kuvempu",
+      "Aluru Venkata Rao",
+      "Shivaram Karanth"
+    ],
+    "answer": 0,
+    "summary": "B.M. Srikanthaiah is the correct answer."
+  },
+  {
+    "cat": "Karnataka Studies",
+    "kn": "ಕರೆನ್ಸಿಯ ಕಲ್ಲಿನ ರಥ ಎಲ್ಲಿದೆ?",
+    "en": "Stone chariot seen on currency notes is at which Karnataka destination?",
+    "options": [
+      "Pattadakal",
+      "Belur",
+      "Hampi",
+      "Aihole"
+    ],
+    "answer": 2,
+    "summary": "Hampi is the correct answer."
+  },
+  {
+    "cat": "Science",
+    "kn": "ದಂತವೈದ್ಯರು ದೊಡ್ಡ ಚಿತ್ರಕ್ಕೆ ಯಾವ ಕನ್ನಡಿ?",
+    "en": "Which mirror do dentists use to view larger image of teeth?",
+    "options": [
+      "Convex",
+      "Concave",
+      "Plane",
+      "Cylindrical"
+    ],
+    "answer": 1,
+    "summary": "Concave is the correct answer."
+  },
+  {
+    "cat": "Science",
+    "kn": "Vitamin B1 ರ ಹೆಸರು?",
+    "en": "Chemical name of Vitamin B1?",
+    "options": [
+      "Riboflavin",
+      "Thiamine",
+      "Retinol",
+      "Pyridoxine"
+    ],
+    "answer": 1,
+    "summary": "Thiamine is the correct answer."
+  },
+  {
+    "cat": "Science",
+    "kn": "ಟೊಮೆಟೊದಲ್ಲಿರುವ ಸಾವಯವ ಆಮ್ಲ?",
+    "en": "Which organic acid is present in tomatoes?",
+    "options": [
+      "Citric acid",
+      "Oxalic acid",
+      "Lactic acid",
+      "Tartaric acid"
+    ],
+    "answer": 1,
+    "summary": "Oxalic acid is the correct answer."
+  },
+  {
+    "cat": "Science",
+    "kn": "ವಲ್ಕನೈಸ್ಡ್ ರಬ್ಬರ್‌ಗೆ ಯಾವ ಧಾತು?",
+    "en": "Which element is mixed in vulcanized rubber?",
+    "options": [
+      "Carbon",
+      "Phosphorus",
+      "Sulphur",
       "Nitrogen"
     ],
     "answer": 2,
-    "summary": "The correct answer is Carbon Dioxide."
+    "summary": "Sulphur is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Galena is the ore of which element?",
-    "en": "Galena is the ore of which element?",
+    "cat": "Science",
+    "kn": "ಗಾಯಿಟರ್ ಯಾವ ಕೊರತೆಯಿಂದ?",
+    "en": "Goitre is caused by deficiency of which nutrient?",
     "options": [
       "Iron",
-      "Lead",
-      "Copper",
-      "Zinc"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Lead."
-  },
-  {
-    "cat": "General Science",
-    "kn": "Deficiency of which hormone causes Diabetes Mellitus?",
-    "en": "Deficiency of which hormone causes Diabetes Mellitus?",
-    "options": [
-      "Thyroxine",
-      "Insulin",
-      "Adrenaline",
-      "Glucagon"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Insulin."
-  },
-  {
-    "cat": "General Science",
-    "kn": "Lens used for Presbyopia?",
-    "en": "Lens used for Presbyopia?",
-    "options": [
-      "Concave lens",
-      "Convex lens",
-      "Bifocal lens",
-      "Cylindrical lens"
+      "Calcium",
+      "Iodine",
+      "Potassium"
     ],
     "answer": 2,
-    "summary": "The correct answer is Bifocal lens."
+    "summary": "Iodine is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Boiling point of water in Kelvin?",
-    "en": "Boiling point of water in Kelvin?",
+    "cat": "Science",
+    "kn": "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ವಿಭವಾಂತರಕ್ಕೆ ಅನುಪಾತ ಎನ್ನುವ ನಿಯಮ?",
+    "en": "Current proportional to potential difference is which law?",
     "options": [
-      "100 K",
-      "273 K",
-      "373 K",
-      "0 K"
+      "Newton",
+      "Ohm",
+      "Faraday",
+      "Pascal"
+    ],
+    "answer": 1,
+    "summary": "Ohm is the correct answer."
+  },
+  {
+    "cat": "Science",
+    "kn": "ಅನಿಲದಿಂದ ನೇರ ಘನಕ್ಕೆ ಪ್ರಕ್ರಿಯೆ?",
+    "en": "Gas directly to solid is called what?",
+    "options": [
+      "Sublimation",
+      "Deposition",
+      "Evaporation",
+      "Condensation"
+    ],
+    "answer": 1,
+    "summary": "Deposition is the correct answer."
+  },
+  {
+    "cat": "Science",
+    "kn": "ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟಿಸುವ ಕಣಗಳು?",
+    "en": "Which blood cells are responsible for clotting?",
+    "options": [
+      "RBCs",
+      "WBCs",
+      "Platelets",
+      "Plasma"
     ],
     "answer": 2,
-    "summary": "The correct answer is 373 K."
+    "summary": "Platelets is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Compound in RBCs that carries oxygen?",
-    "en": "Compound in RBCs that carries oxygen?",
+    "cat": "Science",
+    "kn": "20,000 Hz ಗಿಂತ ಹೆಚ್ಚಿನ ಧ್ವನಿ?",
+    "en": "Sound above 20,000 Hz is called?",
     "options": [
-      "Plasma",
-      "Hemoglobin",
-      "Fibrinogen",
-      "Platelets"
+      "Infrasonic",
+      "Ultrasonic",
+      "Supersonic",
+      "Audible"
     ],
     "answer": 1,
-    "summary": "The correct answer is Hemoglobin."
+    "summary": "Ultrasonic is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Approximate speed of light in vacuum?",
-    "en": "Approximate speed of light in vacuum?",
+    "cat": "Science",
+    "kn": "ವಿದ್ಯುತ್ ಬಲ್ಬ್‌ನ ಮುಖ್ಯ ಅನಿಲ?",
+    "en": "Primary gas in commercial electric bulbs?",
     "options": [
-      "3 × 10^5 m/s",
-      "3 × 10^8 m/s",
-      "3 × 10^11 m/s",
-      "3 × 10^6 m/s"
+      "Oxygen",
+      "Argon",
+      "Hydrogen",
+      "Carbon dioxide"
     ],
     "answer": 1,
-    "summary": "The correct answer is 3 × 10^8 m/s."
+    "summary": "Argon is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Acid present in human stomach?",
-    "en": "Acid present in human stomach?",
+    "cat": "Science",
+    "kn": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ ಮಾಡುವ ರಚನೆ?",
+    "en": "Which plant cell structure absorbs sunlight for photosynthesis?",
     "options": [
-      "Sulphuric Acid",
-      "Nitric Acid",
-      "Hydrochloric Acid",
-      "Acetic Acid"
+      "Mitochondria",
+      "Chloroplast",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "answer": 1,
+    "summary": "Chloroplast is the correct answer."
+  },
+  {
+    "cat": "Science",
+    "kn": "ಚಾಕ್/ಸುಣ್ಣಕಲ್ಲಿನ ಸಂಯುಕ್ತ?",
+    "en": "Main compound in chalk and limestone?",
+    "options": [
+      "Calcium sulphate",
+      "Calcium carbonate",
+      "Sodium carbonate",
+      "Calcium chloride"
+    ],
+    "answer": 1,
+    "summary": "Calcium carbonate is the correct answer."
+  },
+  {
+    "cat": "Science",
+    "kn": "ಭೂಕಂಪ ತೀವ್ರತೆ ದಾಖಲಿಸುವ ಉಪಕರಣ?",
+    "en": "Instrument used to record earthquake tremors?",
+    "options": [
+      "Barometer",
+      "Seismograph",
+      "Lactometer",
+      "Hygrometer"
+    ],
+    "answer": 1,
+    "summary": "Seismograph is the correct answer."
+  },
+  {
+    "cat": "Science",
+    "kn": "ಹೈಡ್ರೋಜನ್ ಅಯಾನು ಸಾಂದ್ರತೆ ಮಾಪಕ?",
+    "en": "Scale measuring hydrogen ion concentration?",
+    "options": [
+      "Richter",
+      "Celsius",
+      "pH",
+      "Kelvin"
     ],
     "answer": 2,
-    "summary": "The correct answer is Hydrochloric Acid."
+    "summary": "pH is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Plant tissue transporting water upward?",
-    "en": "Plant tissue transporting water upward?",
+    "cat": "Science",
+    "kn": "ಕ್ಯಾಟನೇಷನ್‌ಗೆ ಪ್ರಸಿದ್ಧ ಧಾತು?",
+    "en": "Which element is known for catenation?",
     "options": [
-      "Phloem",
-      "Xylem",
-      "Stomata",
-      "Cortex"
+      "Nitrogen",
+      "Carbon",
+      "Hydrogen",
+      "Oxygen"
     ],
     "answer": 1,
-    "summary": "The correct answer is Xylem."
+    "summary": "Carbon is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Chemical formula of washing soda?",
-    "en": "Chemical formula of washing soda?",
+    "cat": "Science",
+    "kn": "ರಿಕೆಟ್ಸ್ ಯಾವ ವಿಟಮಿನ್ ಕೊರತೆ?",
+    "en": "Rickets is due to deficiency of which vitamin?",
     "options": [
-      "NaHCO3",
-      "Na2CO3·10H2O",
-      "NaOH",
-      "CaOCl2"
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
     ],
-    "answer": 1,
-    "summary": "The correct answer is Na2CO3·10H2O."
+    "answer": 3,
+    "summary": "Vitamin D is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Device used to measure ocean depth by echo?",
-    "en": "Device used to measure ocean depth by echo?",
+    "cat": "Science",
+    "kn": "ಧ್ವನಿ ವೇಗವಾಗಿ ಸಾಗುವ ಸ್ಥಿತಿ?",
+    "en": "Sound travels fastest through which state?",
     "options": [
-      "Radar",
-      "Sonar",
-      "Fathometer",
-      "Altimeter"
+      "Gas",
+      "Liquid",
+      "Solid",
+      "Vacuum"
     ],
     "answer": 2,
-    "summary": "The correct answer is Fathometer."
+    "summary": "Solid is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "pH of pure neutral water?",
-    "en": "pH of pure neutral water?",
+    "cat": "Science",
+    "kn": "ಮಾನವನ ಪಕ್ಕೆಲುಬುಗಳ ಸಂಖ್ಯೆ?",
+    "en": "Total number of ribs in normal adult?",
     "options": [
-      "5.6",
-      "7.0",
-      "8.2",
-      "0.0"
+      "12",
+      "24",
+      "36",
+      "48"
     ],
     "answer": 1,
-    "summary": "The correct answer is 7.0."
+    "summary": "24 is the correct answer."
   },
   {
-    "cat": "General Science",
-    "kn": "Coating iron with zinc is called?",
-    "en": "Coating iron with zinc is called?",
+    "cat": "Science",
+    "kn": "AC ವೋಲ್ಟೇಜ್ ಹೆಚ್ಚಿಸುವ/ಕಡಿಮೆ ಮಾಡುವ ಸಾಧನ?",
+    "en": "Device used to step up or down alternating voltage?",
     "options": [
-      "Galvanization",
-      "Electrolysis",
-      "Annealing",
-      "Vulcanization"
+      "Generator",
+      "Transformer",
+      "Ammeter",
+      "Galvanometer"
+    ],
+    "answer": 1,
+    "summary": "Transformer is the correct answer."
+  },
+  {
+    "cat": "Science",
+    "kn": "ಈರುಳ್ಳಿ/ಬೆಳ್ಳುಳ್ಳಿ ವಾಸನೆಗೆ ಕಾರಣ?",
+    "en": "Chemical component causing smell of onions and garlic?",
+    "options": [
+      "Potassium",
+      "Sulphur compounds",
+      "Chlorine",
+      "Sodium"
+    ],
+    "answer": 1,
+    "summary": "Sulphur compounds is the correct answer."
+  },
+  {
+    "cat": "Mental Ability",
+    "kn": "5, 11, 23, 47, 95, ?",
+    "en": "Find the next term: 5, 11, 23, 47, 95, ?",
+    "options": [
+      "190",
+      "191",
+      "189",
+      "192"
+    ],
+    "answer": 1,
+    "summary": "191 is the correct answer."
+  },
+  {
+    "cat": "Mental Ability",
+    "kn": "GUARD = IVCST ಆದರೆ PANEL = ?",
+    "en": "If GUARD is coded IVCST, how is PANEL written?",
+    "options": [
+      "RCPGN",
+      "RCOGN",
+      "QBMFM",
+      "RBPGN"
     ],
     "answer": 0,
-    "summary": "The correct answer is Galvanization."
-  },
-  {
-    "cat": "General Science",
-    "kn": "Vitamin A deficiency causes?",
-    "en": "Vitamin A deficiency causes?",
-    "options": [
-      "Beriberi",
-      "Night Blindness",
-      "Rickets",
-      "Anaemia"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Night Blindness."
-  },
-  {
-    "cat": "General Science",
-    "kn": "Light Year measures which parameter?",
-    "en": "Light Year measures which parameter?",
-    "options": [
-      "Time",
-      "Astronomical Distance",
-      "Intensity of Light",
-      "Velocity"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Astronomical Distance."
-  },
-  {
-    "cat": "General Science",
-    "kn": "Approximate bones in a newborn infant?",
-    "en": "Approximate bones in a newborn infant?",
-    "options": [
-      "206",
-      "300",
-      "250",
-      "150"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is 300."
-  },
-  {
-    "cat": "General Science",
-    "kn": "Neutron moderator widely used in nuclear reactors?",
-    "en": "Neutron moderator widely used in nuclear reactors?",
-    "options": [
-      "Liquid Sodium",
-      "Heavy Water",
-      "Uranium-238",
-      "Boron rods"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Heavy Water."
-  },
-  {
-    "cat": "General Science",
-    "kn": "Organic acid in ant stings?",
-    "en": "Organic acid in ant stings?",
-    "options": [
-      "Citric Acid",
-      "Formic Acid",
-      "Malic Acid",
-      "Nitric Acid"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Formic Acid."
+    "summary": "RCPGN is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "Next number: 2, 5, 10, 17, 26, ?",
-    "en": "Next number: 2, 5, 10, 17, 26, ?",
+    "kn": "7 ಕಿಮೀ ಉತ್ತರ, ಎಡ 4, ಎಡ 7: ಆರಂಭದಿಂದ ದೂರ?",
+    "en": "A man walks 7 km north, left 4 km, left 7 km. Distance from start?",
     "options": [
-      "35",
-      "37",
-      "39",
-      "41"
+      "4 km",
+      "7 km",
+      "11 km",
+      "0 km"
     ],
-    "answer": 1,
-    "summary": "The correct answer is 37."
+    "answer": 0,
+    "summary": "4 km is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "If BEG is YWT, KEY is?",
-    "en": "If BEG is YWT, KEY is?",
+    "kn": "ಭಿನ್ನ ಪದ: Mercury, Venus, Moon, Mars",
+    "en": "Find odd term: Mercury, Venus, Moon, Mars",
     "options": [
-      "PVD",
-      "PVB",
-      "OVB",
-      "PVC"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is PVB."
-  },
-  {
-    "cat": "Mental Ability",
-    "kn": "Walk 8 km east then 6 km right. Direct distance?",
-    "en": "Walk 8 km east then 6 km right. Direct distance?",
-    "options": [
-      "14 km",
-      "10 km",
-      "2 km",
-      "12 km"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is 10 km."
-  },
-  {
-    "cat": "Mental Ability",
-    "kn": "Odd one: Leopard, Tiger, Bear, Lion",
-    "en": "Odd one: Leopard, Tiger, Bear, Lion",
-    "options": [
-      "Leopard",
-      "Tiger",
-      "Bear",
-      "Lion"
+      "Mercury",
+      "Venus",
+      "Moon",
+      "Mars"
     ],
     "answer": 2,
-    "summary": "The correct answer is Bear."
+    "summary": "Moon is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "Distance covered at 90 km/h in 20 seconds?",
-    "en": "Distance covered at 90 km/h in 20 seconds?",
+    "kn": "18 km/h ವೇಗದಲ್ಲಿ 1 ನಿಮಿಷದ ದೂರ?",
+    "en": "At 18 km/h, distance covered in 1 minute?",
     "options": [
-      "450 m",
-      "500 m",
+      "180 m",
       "300 m",
+      "50 m",
       "600 m"
     ],
     "answer": 1,
-    "summary": "The correct answer is 500 m."
+    "summary": "300 m is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "Average of 5 matches is 40; after 6th average is 45. Sixth score?",
-    "en": "Average of 5 matches is 40; after 6th average is 45. Sixth score?",
+    "kn": "4 ಸಹೋದರಿಯ ಸರಾಸರಿ 12; ತಾಯಿ ಸೇರಿ 18: ತಾಯಿ ವಯಸ್ಸು?",
+    "en": "Average of 4 sisters is 12; with mother average is 18. Mother age?",
     "options": [
-      "65",
-      "70",
-      "75",
-      "80"
+      "42 years",
+      "36 years",
+      "40 years",
+      "44 years"
+    ],
+    "answer": 0,
+    "summary": "42 years is the correct answer."
+  },
+  {
+    "cat": "Mental Ability",
+    "kn": "₹500 ವಸ್ತು 20% ಲಾಭಕ್ಕೆ ಮಾರಾಟ ಬೆಲೆ?",
+    "en": "Item bought for ₹500 sold at 20% profit. Selling price?",
+    "options": [
+      "₹550",
+      "₹600",
+      "₹620",
+      "₹580"
     ],
     "answer": 1,
-    "summary": "The correct answer is 70."
+    "summary": "₹600 is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "Buy ₹1200, sell at 15% loss. Selling price?",
-    "en": "Buy ₹1200, sell at 15% loss. Selling price?",
+    "kn": "₹4000 ಮೇಲೆ 5% 2 ವರ್ಷ SI?",
+    "en": "Simple interest on ₹4000 at 5% for 2 years?",
     "options": [
-      "₹1000",
-      "₹1020",
-      "₹1050",
-      "₹1100"
+      "₹200",
+      "₹400",
+      "₹600",
+      "₹800"
     ],
     "answer": 1,
-    "summary": "The correct answer is ₹1020."
+    "summary": "₹400 is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "CI on ₹10000 for 2 years at 10% annually?",
-    "en": "CI on ₹10000 for 2 years at 10% annually?",
+    "kn": "√144 + √81 - √25 = ?",
+    "en": "Simplify √144 + √81 - √25",
     "options": [
-      "₹2000",
-      "₹2100",
-      "₹2200",
-      "₹2500"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is ₹2100."
-  },
-  {
-    "cat": "Mental Ability",
-    "kn": "Simplify 64^(1/3)+16^(1/2)",
-    "en": "Simplify 64^(1/3)+16^(1/2)",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is 8."
-  },
-  {
-    "cat": "Mental Ability",
-    "kn": "Ratio 4:5, sum 180. Smaller number?",
-    "en": "Ratio 4:5, sum 180. Smaller number?",
-    "options": [
-      "70",
-      "80",
-      "90",
-      "100"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is 80."
-  },
-  {
-    "cat": "Mental Ability",
-    "kn": "No brother, but that man's father is my son. Person in picture?",
-    "en": "No brother, but that man's father is my son. Person in picture?",
-    "options": [
-      "Son",
-      "Grandson",
-      "Father",
-      "Nephew"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Grandson."
-  },
-  {
-    "cat": "Mental Ability",
-    "kn": "Empty tap 10h, filling pipe 15h; both open, full tank empties in?",
-    "en": "Empty tap 10h, filling pipe 15h; both open, full tank empties in?",
-    "options": [
-      "25 hours",
-      "30 hours",
-      "20 hours",
-      "12 hours"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is 30 hours."
-  },
-  {
-    "cat": "Mental Ability",
-    "kn": "HCF of 36, 54, 90?",
-    "en": "HCF of 36, 54, 90?",
-    "options": [
-      "9",
       "18",
-      "27",
-      "36"
+      "16",
+      "20",
+      "22"
     ],
     "answer": 1,
-    "summary": "The correct answer is 18."
+    "summary": "16 is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "12% of a number is 72. Find 50% of it.",
-    "en": "12% of a number is 72. Find 50% of it.",
+    "kn": "X:Y=3:4, Y:Z=8:9, X:Z?",
+    "en": "If X:Y=3:4 and Y:Z=8:9, find X:Z",
     "options": [
-      "250",
+      "1:2",
+      "2:3",
+      "3:2",
+      "4:3"
+    ],
+    "answer": 1,
+    "summary": "2:3 is the correct answer."
+  },
+  {
+    "cat": "Mental Ability",
+    "kn": "ಅವನ ಹೆಂಡತಿ ನನ್ನ ತಂದೆಯ ಏಕೈಕ ಮಗಳು: ಸಂಬಂಧ?",
+    "en": "His wife is only daughter of my father. Relation of lady to man?",
+    "options": [
+      "Sister",
+      "Mother",
+      "Wife",
+      "Daughter"
+    ],
+    "answer": 2,
+    "summary": "Wife is the correct answer."
+  },
+  {
+    "cat": "Mental Ability",
+    "kn": "ಪೈಪ್ 8 ಗಂಟೆ ತುಂಬಿಸುತ್ತದೆ, ಔಟ್ಲೆಟ್ 16 ಗಂಟೆ ಖಾಲಿ: ಒಟ್ಟಿಗೆ?",
+    "en": "Inlet fills in 8 hours, outlet empties in 16. Together fill time?",
+    "options": [
+      "12 hours",
+      "16 hours",
+      "24 hours",
+      "8 hours"
+    ],
+    "answer": 1,
+    "summary": "16 hours is the correct answer."
+  },
+  {
+    "cat": "Mental Ability",
+    "kn": "15, 20, 30 ರ LCM?",
+    "en": "LCM of 15, 20 and 30?",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "120"
+    ],
+    "answer": 1,
+    "summary": "60 is the correct answer."
+  },
+  {
+    "cat": "Mental Ability",
+    "kn": "30% = 90 ಆಗಿದ್ದರೆ ಸಂಖ್ಯೆ?",
+    "en": "If 30% of a number is 90, number is?",
+    "options": [
+      "200",
+      "270",
       "300",
-      "350",
       "400"
     ],
-    "answer": 1,
-    "summary": "The correct answer is 300."
+    "answer": 2,
+    "summary": "300 is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "Jan 1 non-leap year Friday. Dec 31 is?",
-    "en": "Jan 1 non-leap year Friday. Dec 31 is?",
+    "kn": "4ನೇ ದಿನ ಭಾನುವಾರ; 26ನೇ ದಿನ?",
+    "en": "If 4th day is Sunday, what is 26th day?",
     "options": [
-      "Saturday",
       "Friday",
-      "Sunday",
-      "Monday"
+      "Saturday",
+      "Monday",
+      "Tuesday"
     ],
-    "answer": 1,
-    "summary": "The correct answer is Friday."
+    "answer": 2,
+    "summary": "Monday is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "If 2^(x+3)=128, x=?",
-    "en": "If 2^(x+3)=128, x=?",
+    "kn": "5^k ÷ 5^2 = 125; k?",
+    "en": "Find k if 5^k divided by 5^2 equals 125",
     "options": [
       "3",
       "4",
       "5",
       "6"
     ],
-    "answer": 1,
-    "summary": "The correct answer is 4."
+    "answer": 2,
+    "summary": "5 is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "Money triples in 20 years simple interest. Rate?",
-    "en": "Money triples in 20 years simple interest. Rate?",
+    "kn": "ಹಣ 10 ವರ್ಷದಲ್ಲಿ ದ್ವಿಗುಣ: SI ದರ?",
+    "en": "Money doubles in 10 years at simple interest. Rate?",
     "options": [
       "5%",
       "10%",
-      "15%",
-      "20%"
+      "12%",
+      "15%"
     ],
     "answer": 1,
-    "summary": "The correct answer is 10%."
+    "summary": "10% is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "Kiran is 15th from top and 20th from bottom. Total?",
-    "en": "Kiran is 15th from top and 20th from bottom. Total?",
+    "kn": "30 ಸಾಲಿನಲ್ಲಿ ಎಡದಿಂದ 12; ಬಲದಿಂದ ಸ್ಥಾನ?",
+    "en": "In row of 30, Ramesh is 12th from left. Position from right?",
     "options": [
-      "35",
-      "34",
-      "36",
-      "33"
+      "18th",
+      "19th",
+      "17th",
+      "20th"
     ],
     "answer": 1,
-    "summary": "The correct answer is 34."
+    "summary": "19th is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "Dictionary order: Trend, Treat, Treasure, Treason",
-    "en": "Dictionary order: Trend, Treat, Treasure, Treason",
+    "kn": "A=+, B=-, C=×, D=÷; 10 C 4 A 12 D 3",
+    "en": "Evaluate 10 C 4 A 12 D 3 where A=+, C=×, D=÷",
     "options": [
-      "Treason, Treasure, Treat, Trend",
-      "Treasure, Treason, Treat, Trend",
-      "Treat, Treason, Treasure, Trend",
-      "Treason, Treat, Treasure, Trend"
+      "44",
+      "42",
+      "48",
+      "40"
     ],
     "answer": 0,
-    "summary": "The correct answer is Treason, Treasure, Treat, Trend."
+    "summary": "44 is the correct answer."
   },
   {
     "cat": "Mental Ability",
-    "kn": "Volume of cube of edge 5 cm?",
-    "en": "Volume of cube of edge 5 cm?",
+    "kn": "20m × 15m ಆಯತ ವಿಸ್ತೀರ್ಣ?",
+    "en": "Area of rectangle length 20 m and width 15 m?",
     "options": [
-      "25 cu.cm",
-      "125 cu.cm",
-      "150 cu.cm",
-      "100 cu.cm"
+      "300 sq.m",
+      "150 sq.m",
+      "70 sq.m",
+      "350 sq.m"
     ],
-    "answer": 1,
-    "summary": "The correct answer is 125 cu.cm."
+    "answer": 0,
+    "summary": "300 sq.m is the correct answer."
   },
   {
     "cat": "History & Geography",
-    "kn": "Mughal emperor when East India Company formed in 1600?",
-    "en": "Mughal emperor when East India Company formed in 1600?",
+    "kn": "ಗುಲಾಮಿ/ಮಾಮ್ಲುಕ್ ವಂಶದ ಸ್ಥಾಪಕ?",
+    "en": "Founder of Slave (Mamluk) Dynasty in India?",
     "options": [
-      "Jahangir",
-      "Akbar",
-      "Shah Jahan",
-      "Aurangzeb"
+      "Iltutmish",
+      "Balban",
+      "Qutbuddin Aibak",
+      "Razia Sultana"
     ],
-    "answer": 1,
-    "summary": "The correct answer is Akbar."
+    "answer": 2,
+    "summary": "Qutbuddin Aibak is the correct answer."
   },
   {
     "cat": "History & Geography",
-    "kn": "Non-Cooperation Movement was called off after which incident?",
-    "en": "Non-Cooperation Movement was called off after which incident?",
+    "kn": "ಬಕ್ಸರ್ ಕದನ ಯಾವ ವರ್ಷ?",
+    "en": "Battle of Buxar was fought in which year?",
     "options": [
-      "Jallianwala Bagh",
-      "Chauri Chaura incident",
-      "Kakori Conspiracy",
-      "Dandi Raid"
+      "1757",
+      "1764",
+      "1761",
+      "1772"
     ],
     "answer": 1,
-    "summary": "The correct answer is Chauri Chaura incident."
+    "summary": "1764 is the correct answer."
   },
   {
     "cat": "History & Geography",
-    "kn": "Founder of Prarthana Samaj in Bombay in 1867?",
-    "en": "Founder of Prarthana Samaj in Bombay in 1867?",
+    "kn": "ಮದ್ರಾಸ್‌ನಲ್ಲಿ ರೈತವಾರಿ ಪದ್ಧತಿ ಯಾರು ಆರಂಭಿಸಿದರು?",
+    "en": "Who initiated Ryotwari system in Madras Presidency?",
     "options": [
-      "Swami Vivekananda",
-      "Atmaram Pandurang",
-      "Raja Ram Mohan Roy",
-      "Ishwar Chandra Vidyasagar"
+      "Cornwallis",
+      "Thomas Munro",
+      "Warren Hastings",
+      "Dalhousie"
     ],
     "answer": 1,
-    "summary": "The correct answer is Atmaram Pandurang."
+    "summary": "Thomas Munro is the correct answer."
   },
   {
     "cat": "History & Geography",
-    "kn": "Leading producer of manganese ore in India?",
-    "en": "Leading producer of manganese ore in India?",
+    "kn": "ರಾಜಪುಟಾನ ಎಂಬ ಹಿಂದಿನ ಹೆಸರು ಹೊಂದಿದ ರಾಜ್ಯ?",
+    "en": "Which modern state was known as Rajputana?",
     "options": [
-      "Karnataka",
       "Madhya Pradesh",
-      "Odisha",
-      "Maharashtra"
+      "Gujarat",
+      "Rajasthan",
+      "Punjab"
     ],
-    "answer": 1,
-    "summary": "The correct answer is Madhya Pradesh."
+    "answer": 2,
+    "summary": "Rajasthan is the correct answer."
   },
   {
     "cat": "History & Geography",
-    "kn": "First Battle of Tarain year?",
-    "en": "First Battle of Tarain year?",
+    "kn": "ಭಾರತದ ಮೊದಲ ರೈಲು ಸಾರ್ವಜನಿಕವಾಗಿ ಯಾವ ವರ್ಷ?",
+    "en": "First railway line in India opened in which year?",
     "options": [
-      "1191",
-      "1192",
-      "1526",
-      "1556"
+      "1850",
+      "1853",
+      "1857",
+      "1860"
+    ],
+    "answer": 1,
+    "summary": "1853 is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "Poverty and Un-British Rule in India ಲೇಖಕ?",
+    "en": "Author of Poverty and Un-British Rule in India?",
+    "options": [
+      "Gokhale",
+      "Dadabhai Naoroji",
+      "Tilak",
+      "Bipin Chandra Pal"
+    ],
+    "answer": 1,
+    "summary": "Dadabhai Naoroji is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ಬಾಂಗ್ಲಾದೇಶದೊಂದಿಗೆ ಉದ್ದವಾದ ಗಡಿ ಹಂಚುವ ರಾಜ್ಯ?",
+    "en": "Which state shares longest border with Bangladesh?",
+    "options": [
+      "Assam",
+      "West Bengal",
+      "Tripura",
+      "Mizoram"
+    ],
+    "answer": 1,
+    "summary": "West Bengal is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ಸಹ್ಯಾದ್ರಿಯ ಪರ್ಯಾಯ ಹೆಸರು?",
+    "en": "Alternative name of Sahyadri Range?",
+    "options": [
+      "Eastern Ghats",
+      "Western Ghats",
+      "Aravali",
+      "Satpura"
+    ],
+    "answer": 1,
+    "summary": "Western Ghats is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ಬಿಹಾರದ ಕಣ್ಣೀರಿನ ನದಿ?",
+    "en": "Which river is called Sorrow of Bihar?",
+    "options": [
+      "Gandak",
+      "Kosi",
+      "Son",
+      "Ghaghara"
+    ],
+    "answer": 1,
+    "summary": "Kosi is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "GSI ಪ್ರಧಾನ ಕಚೇರಿ?",
+    "en": "Head office of Geological Survey of India?",
+    "options": [
+      "Dehradun",
+      "Kolkata",
+      "New Delhi",
+      "Nagpur"
+    ],
+    "answer": 1,
+    "summary": "Kolkata is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ಓಜೋನ್ ಪದರ ಯಾವ ವಾತಾವರಣ ಪದರದಲ್ಲಿ?",
+    "en": "Ozone layer is in which atmospheric layer?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "answer": 1,
+    "summary": "Stratosphere is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ಲಕ್ಷದ್ವೀಪ ರಾಜಧಾನಿ?",
+    "en": "Capital of Lakshadweep?",
+    "options": [
+      "Port Blair",
+      "Kavaratti",
+      "Silvassa",
+      "Daman"
+    ],
+    "answer": 1,
+    "summary": "Kavaratti is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ನಾಗಾರ್ಜುನ ಸಾಗರ ಯಾವ ನದಿಗೆ?",
+    "en": "Nagarjuna Sagar Dam is across which river?",
+    "options": [
+      "Godavari",
+      "Krishna",
+      "Cauvery",
+      "Mahanadi"
+    ],
+    "answer": 1,
+    "summary": "Krishna is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ಶ್ರೀನಗರ-ಲೇಹ್ ಸಂಪರ್ಕಿಸುವ ಪಾಸ್?",
+    "en": "Which pass connects Srinagar valley with Leh?",
+    "options": [
+      "Nathu La",
+      "Zoji La",
+      "Shipki La",
+      "Rohtang"
+    ],
+    "answer": 1,
+    "summary": "Zoji La is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ಅರಬ್ಬೀ ಸಮುದ್ರದ ರಾಣಿ ಬಂದರು?",
+    "en": "Which port is Queen of Arabian Sea?",
+    "options": [
+      "Mumbai",
+      "Kochi",
+      "Marmagao",
+      "Kandla"
+    ],
+    "answer": 1,
+    "summary": "Kochi is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ಸಾಂಚಿ ಸ್ತೂಪ ನಿರ್ಮಾಣಕ್ಕೆ ಪ್ರೋತ್ಸಾಹಿಸಿದವರು?",
+    "en": "Who patronized construction of Sanchi Stupa?",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Kanishka",
+      "Harsha"
+    ],
+    "answer": 1,
+    "summary": "Ashoka is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ಫತೇಪುರ್ ಸಿಕ್ರಿ ಸ್ಥಾಪಿಸಿದ ಮೊಘಲ್?",
+    "en": "Which Mughal emperor founded Fatehpur Sikri?",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Shah Jahan"
+    ],
+    "answer": 2,
+    "summary": "Akbar is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ಕಬ್ಬಿಣ-ನಿಕಲ್ Nife ಇರುವ ಭೂ ಪದರ?",
+    "en": "Earth layer with iron and nickel (Nife)?",
+    "options": [
+      "Crust",
+      "Mantle",
+      "Core",
+      "Lithosphere"
+    ],
+    "answer": 2,
+    "summary": "Core is the correct answer."
+  },
+  {
+    "cat": "History & Geography",
+    "kn": "ವಿಷುವತ್ ದಿನಾಂಕಗಳು?",
+    "en": "Equinox dates are which?",
+    "options": [
+      "March 21 and September 23",
+      "June 21 and December 22",
+      "January 3 and July 4",
+      "April 1 and October 31"
     ],
     "answer": 0,
-    "summary": "The correct answer is 1191."
+    "summary": "March 21 and September 23 is the correct answer."
   },
   {
     "cat": "History & Geography",
-    "kn": "Latitude dividing India almost equally?",
-    "en": "Latitude dividing India almost equally?",
+    "kn": "ಬಾಕ್ಸೈಟ್ ಪ್ರಮುಖ ಉತ್ಪಾದಕ ರಾಜ್ಯ?",
+    "en": "Top producer of bauxite ore in India?",
     "options": [
-      "Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "Arctic Circle"
+      "Jharkhand",
+      "Odisha",
+      "Chhattisgarh",
+      "Madhya Pradesh"
     ],
     "answer": 1,
-    "summary": "The correct answer is Tropic of Cancer."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Satish Dhawan Space Centre is at?",
-    "en": "Satish Dhawan Space Centre is at?",
-    "options": [
-      "Thiruvananthapuram",
-      "Sriharikota",
-      "Chandipur",
-      "Bengaluru"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Sriharikota."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Sorrow of Bengal river?",
-    "en": "Sorrow of Bengal river?",
-    "options": [
-      "Hooghly",
-      "Damodar River",
-      "Mahanadi",
-      "Padma"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Damodar River."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "India's global rank by land area?",
-    "en": "India's global rank by land area?",
-    "options": [
-      "5th",
-      "7th",
-      "10th",
-      "2nd"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is 7th."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Boundary between crust and mantle?",
-    "en": "Boundary between crust and mantle?",
-    "options": [
-      "Gutenberg Discontinuity",
-      "Mohorovicic (Moho) Discontinuity",
-      "Lehmann Discontinuity",
-      "Conrad Discontinuity"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Mohorovicic (Moho) Discontinuity."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Hot dry summer winds in northern India?",
-    "en": "Hot dry summer winds in northern India?",
-    "options": [
-      "Mango Showers",
-      "Loo",
-      "Chinooks",
-      "Kalbaisakhi"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Loo."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Lowest population density state by Census?",
-    "en": "Lowest population density state by Census?",
-    "options": [
-      "Sikkim",
-      "Arunachal Pradesh",
-      "Mizoram",
-      "Goa"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Arunachal Pradesh."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Bhakra Nangal Dam is on which river?",
-    "en": "Bhakra Nangal Dam is on which river?",
-    "options": [
-      "Jhelum",
-      "Sutlej",
-      "Indus",
-      "Ravi"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Sutlej."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Channel between Great Nicobar and Sumatra?",
-    "en": "Channel between Great Nicobar and Sumatra?",
-    "options": [
-      "10 Degree Channel",
-      "Grand Channel",
-      "Palk Strait",
-      "9 Degree Channel"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Grand Channel."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Land of Five Rivers?",
-    "en": "Land of Five Rivers?",
-    "options": [
-      "Uttar Pradesh",
-      "Punjab",
-      "Haryana",
-      "Bihar"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Punjab."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Kushana ruler who patronized Buddhism significantly?",
-    "en": "Kushana ruler who patronized Buddhism significantly?",
-    "options": [
-      "Kujula Kadphises",
-      "Kanishka",
-      "Huvishka",
-      "Vasudeva"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Kanishka."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Nalanda University was destroyed by?",
-    "en": "Nalanda University was destroyed by?",
-    "options": [
-      "Mahmud Ghazni",
-      "Bakhtiyar Khilji",
-      "Muhammad Ghori",
-      "Timur"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Bakhtiyar Khilji."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Atmospheric layer reflecting radio waves?",
-    "en": "Atmospheric layer reflecting radio waves?",
-    "options": [
-      "Exosphere",
-      "Ionosphere",
-      "Stratosphere",
-      "Mesosphere"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Ionosphere."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Point inside Earth where earthquake waves originate?",
-    "en": "Point inside Earth where earthquake waves originate?",
-    "options": [
-      "Epicenter",
-      "Focus (Hypocenter)",
-      "Fault Line",
-      "Crater"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Focus (Hypocenter)."
-  },
-  {
-    "cat": "History & Geography",
-    "kn": "Deepest landlocked east coast port of India?",
-    "en": "Deepest landlocked east coast port of India?",
-    "options": [
-      "Chennai Port",
-      "Visakhapatnam Port",
-      "Paradip Port",
-      "Haldia Port"
-    ],
-    "answer": 1,
-    "summary": "The correct answer is Visakhapatnam Port."
+    "summary": "Odisha is the correct answer."
   }
 ];
+
 
 const form = document.getElementById('quizForm');
 const result = document.getElementById('result');
@@ -1310,6 +1311,7 @@ const ANSWER_MARK = 1;
 const WRONG_PENALTY = 0.25;
 function renderQuiz() {
   progress.textContent = `${questions.length} questions / ಪ್ರಶ್ನೆಗಳು`;
+  // Paper-local serial numbers intentionally restart at 1 for this next page.
   form.innerHTML = questions.map((q, index) => `
     <fieldset class="question">
       <h3>${index + 1}. <small>${q.cat}</small><br>${q.kn}<br><span>${q.en}</span></h3>
