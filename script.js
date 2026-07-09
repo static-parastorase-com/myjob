@@ -1128,6 +1128,21 @@ function renderQuiz() {
   `).join('');
 }
 
+function getResultSummary(index, isCorrect) {
+  const ranges = [
+    { max: 25, label: 'current affairs, Karnataka GK and police basics / ಪ್ರಚಲಿತ ಘಟನೆಗಳು, ಕರ್ನಾಟಕ GK ಮತ್ತು ಪೊಲೀಸ್ ಮೂಲಭೂತ ವಿಷಯ' },
+    { max: 40, label: 'maths, reasoning and Constitution basics / ಗಣಿತ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಸಂವಿಧಾನ ಮೂಲಭೂತ ವಿಷಯ' },
+    { max: 55, label: 'India and global awareness / ಭಾರತ ಮತ್ತು ಜಾಗತಿಕ ಅರಿವು' },
+    { max: 75, label: 'law, cyber safety and police duty / ಕಾನೂನು, ಸೈಬರ್ ಸುರಕ್ಷತೆ ಮತ್ತು ಪೊಲೀಸ್ ಕರ್ತವ್ಯ' },
+    { max: 90, label: 'language, Karnataka culture and geography / ಭಾಷೆ, ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಭೂಗೋಳ' },
+    { max: 100, label: 'quantitative aptitude / ಪ್ರಮಾಣಾತ್ಮಕ ಸಾಮರ್ಥ್ಯ' }
+  ];
+  const topic = ranges.find((range) => index + 1 <= range.max).label;
+  return isCorrect
+    ? `Small summary / ಚಿಕ್ಕ ಸಾರಾಂಶ: Correct. This question checks ${topic}.`
+    : `Small summary / ಚಿಕ್ಕ ಸಾರಾಂಶ: Wrong. Revise ${topic}; the correct option is shown below.`;
+}
+
 function showResult() {
   const selected = questions.map((_, index) => {
     const checked = form.querySelector(`input[name="q${index}"]:checked`);
@@ -1151,6 +1166,7 @@ function showResult() {
       <article class="review-item">
         <h4>${index + 1}. ${q.kn}<br>${q.en}</h4>
         <p>Your answer / ನಿಮ್ಮ ಉತ್ತರ: <span class="${isCorrect ? 'correct' : 'wrong'}">${q.options[selected[index]]}</span></p>
+        <p class="summary-line">${getResultSummary(index, isCorrect)}</p>
         <p>Correct answer / ಸರಿಯಾದ ಉತ್ತರ: <span class="correct">${q.options[q.answer]}</span></p>
       </article>
     `;
