@@ -1104,12 +1104,10 @@ const questions = [
 const home = document.getElementById('home');
 const quiz = document.getElementById('quiz');
 const result = document.getElementById('result');
-const answerPage = document.getElementById('answerPage');
 const form = document.getElementById('quizForm');
 const progress = document.getElementById('progress');
 const scoreBox = document.getElementById('scoreBox');
 const review = document.getElementById('review');
-const answerList = document.getElementById('answerList');
 const ANSWER_MARK = 1;
 const WRONG_PENALTY = 0.25;
 
@@ -1128,32 +1126,6 @@ function renderQuiz() {
       </div>
     </fieldset>
   `).join('');
-}
-
-function renderAnswerPage() {
-  answerList.innerHTML = questions.map((q, index) => `
-    <article class="answer-item">
-      <h4>${index + 1}. ${q.kn}<br>${q.en}</h4>
-      <p><strong>Options / ಆಯ್ಕೆಗಳು:</strong> ${q.options.map((option, optionIndex) => `${String.fromCharCode(65 + optionIndex)}. ${option}`).join(' | ')}</p>
-      <p>Answer / ಉತ್ತರ: <span class="correct">${String.fromCharCode(65 + q.answer)}. ${q.options[q.answer]}</span></p>
-    </article>
-  `).join('');
-}
-
-function showAnswerPage() {
-  home.classList.add('hidden');
-  quiz.classList.add('hidden');
-  result.classList.add('hidden');
-  answerPage.classList.remove('hidden');
-  answerPage.scrollIntoView({ behavior: 'smooth', block: 'start' });
-}
-
-function showHome() {
-  answerPage.classList.add('hidden');
-  result.classList.add('hidden');
-  quiz.classList.add('hidden');
-  home.classList.remove('hidden');
-  home.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function showResult() {
@@ -1196,14 +1168,10 @@ function resetTest() {
 
 document.getElementById('startTest').addEventListener('click', () => {
   home.classList.add('hidden');
-  answerPage.classList.add('hidden');
   quiz.classList.remove('hidden');
   quiz.scrollIntoView({ behavior: 'smooth' });
 });
-document.getElementById('showAnswerPage').addEventListener('click', showAnswerPage);
-document.getElementById('backHome').addEventListener('click', showHome);
 document.getElementById('submitTest').addEventListener('click', showResult);
 document.getElementById('resetTest').addEventListener('click', resetTest);
 
 renderQuiz();
-renderAnswerPage();
