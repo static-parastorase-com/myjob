@@ -75,6 +75,13 @@ button {
   font-weight: 800;
   cursor: pointer;
 }
+.button-link {
+  display: inline-block;
+  border-radius: 12px;
+  padding: 13px 18px;
+  font-weight: 800;
+  text-decoration: none;
+}
 .primary { color: #fff; background: var(--brand); }
 .secondary { color: var(--brand); background: #e8efff; }
 .actions { display: flex; gap: 12px; flex-wrap: wrap; }
