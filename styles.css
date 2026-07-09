@@ -44,6 +44,7 @@ h1 { margin: 0 0 12px; font-size: clamp(2rem, 5vw, 3.6rem); }
 }
 .hidden { display: none; }
 .home-card { text-align: center; }
+.home-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 18px 0; }
 .note, footer { color: var(--muted); }
 .quiz-top { display: flex; justify-content: space-between; gap: 12px; align-items: center; flex-wrap: wrap; }
 .progress { font-weight: 800; color: var(--brand); }
@@ -86,7 +87,8 @@ button {
   background: #dcf8e9;
 }
 .method { margin: 20px 0; padding: 16px; border-left: 5px solid var(--brand-2); background: #fffbea; }
-.review-item { border-bottom: 1px solid var(--line); padding: 16px 0; }
+.review-item, .answer-item { border-bottom: 1px solid var(--line); padding: 16px 0; }
+.answer-item h4 { margin: 0 0 8px; line-height: 1.55; }
 .correct { color: var(--ok); font-weight: 800; }
 .wrong { color: var(--bad); font-weight: 800; }
 footer { padding: 24px; text-align: center; }
