@@ -30,7 +30,35 @@ const paper20 = [
 ["Mental Ability, Logical Reasoning & Numerical Ability / ಮಾನಸಿಕ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಗಣಿತ", [
 ["Next number: 3, 7, 15, 31, 63, ?","3, 7, 15, 31, 63 ಸರಣಿಯ ಮುಂದಿನ ಸಂಖ್ಯೆ ಯಾವುದು?","127","127"],["If TRAIN is WUDLQ, how is BUS coded?","TRAIN ಅನ್ನು WUDLQ ಎಂದರೆ BUS ಸಂಕೇತ ಏನು?","EXV","EXV"],["Distance after 12 km north and 5 km east?","12 ಕಿಮೀ ಉತ್ತರ ಮತ್ತು 5 ಕಿಮೀ ಪೂರ್ವ ನಡೆದರೆ ನೇರ ದೂರ ಎಷ್ಟು?","13 km","13 ಕಿಮೀ"],["Odd one out: 27, 64, 125, 144, 216?","27, 64, 125, 144, 216ರಲ್ಲಿ ಭಿನ್ನವಾದ ಸಂಖ್ಯೆ ಯಾವುದು?","144","144"],["Teacher's age if 20 students average 15 and 21 persons average 16?","20 ವಿದ್ಯಾರ್ಥಿಗಳ ಸರಾಸರಿ 15 ಮತ್ತು ಶಿಕ್ಷಕರೊಂದಿಗೆ 21 ಜನರ ಸರಾಸರಿ 16 ಆದರೆ ಶಿಕ್ಷಕರ ವಯಸ್ಸು ಎಷ್ಟು?","36 years","36 ವರ್ಷ"],["Net profit after 20% markup and 10% discount?","20% ಹೆಚ್ಚಿಸಿ 10% ರಿಯಾಯಿತಿ ನೀಡಿದ ನಿವ್ವಳ ಲಾಭ ಎಷ್ಟು?","8% profit","8% ಲಾಭ"],["Annual simple-interest rate if money doubles in 8 years?","ಸರಳ ಬಡ್ಡಿಯಲ್ಲಿ 8 ವರ್ಷದಲ್ಲಿ ಹಣ ದ್ವಿಗುಣವಾದರೆ ಬಡ್ಡಿದರ ಎಷ್ಟು?","12.5%","12.5%"],["If A:B=2:3 and B:C=4:5, find A:B:C.","A:B=2:3 ಮತ್ತು B:C=4:5 ಆದರೆ A:B:C ಎಷ್ಟು?","8:12:15","8:12:15"],["Time for a 200m train at 72 km/h to pass a post?","72 ಕಿಮೀ/ಗಂ ವೇಗದ 200ಮೀ ರೈಲು ಕಂಬ ದಾಟಲು ಬೇಕಾದ ಸಮಯ?","10 seconds","10 ಸೆಕೆಂಡ್"],["Solve √625 ÷ 5 + 12.","√625 ÷ 5 + 12 ಪರಿಹರಿಸಿ.","17","17"],["Angle at 3:00?","3:00 ಗಂಟೆಗೆ ಮುಳ್ಳುಗಳ ನಡುವಿನ ಕೋನ ಎಷ್ಟು?","90°","90°"],["LCM of 12, 18, 24?","12, 18, 24ರ ಲ.ಸಾ.ಅ ಎಷ್ಟು?","72","72"],["Number when 25% plus 75 equals itself?","ಒಂದು ಸಂಖ್ಯೆಯ 25%ಗೆ 75 ಸೇರಿಸಿದರೆ ಅದೇ ಸಂಖ್ಯೆ; ಸಂಖ್ಯೆ ಯಾವುದು?","100","100"],["CI rate: ₹1,000 becomes ₹1,331 in 3 years.","₹1,000 ಮೂರು ವರ್ಷಗಳಲ್ಲಿ ₹1,331 ಆದರೆ ಚಕ್ರಬಡ್ಡಿ ದರ ಎಷ್ಟು?","10%","10%"],["If Friday is the 3rd, what day is the 27th?","3ನೇ ದಿನ ಶುಕ್ರವಾರವಾದರೆ 27ನೇ ದಿನ ಯಾವ ವಾರ?","Monday","ಸೋಮವಾರ"],["x if 3^(x−1)=81?","3^(x−1)=81 ಆದರೆ x ಎಷ್ಟು?","5","5"],["Days for 10 men if 8 men complete work in 20 days?","8 ಜನರು 20 ದಿನಗಳಲ್ಲಿ ಕೆಲಸ ಮುಗಿಸಿದರೆ 10 ಜನರು ಎಷ್ಟು ದಿನಗಳಲ್ಲಿ?","16 days","16 ದಿನ"],["HCF of 24, 36, 60?","24, 36, 60ರ ಮ.ಸಾ.ಅ ಎಷ್ಟು?","12","12"],["Find n: 2^n × 2^3 = 64.","2^n × 2^3 = 64 ಆದರೆ n ಎಷ್ಟು?","3","3"],["A is B's sister; C is B's mother; D is C's father. A is D's?","A, Bಯ ಸಹೋದರಿ; C, Bಯ ತಾಯಿ; D, Cಯ ತಂದೆ. A, Dಗೆ ಏನಾಗಬೇಕು?","Granddaughter","ಮೊಮ್ಮಗಳು"]]]
 ];
+// The supplied Paper 20 choices. Each item is English / Kannada, and option A is the answer key.
+const suppliedOptions = [
+["Vikram-1 / ವಿಕ್ರಮ್-1","Agnikul-2 / ಅಗ್ನಿಕುಲ್-2","Skyroot Prime / ಸ್ಕೈರೂಟ್ ಪ್ರೈಮ್","SSLV-D3 / ಎಸ್‌ಎಸ್‌ಎಲ್‌ವಿ-ಡಿ3"],
+["Royal Challengers Bengaluru / ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು","Chennai Super Kings / ಚೆನ್ನೈ ಸೂಪರ್ ಕಿಂಗ್ಸ್","Mumbai Indians / ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್","Kolkata Knight Riders / ಕೋಲ್ಕತಾ ನೈಟ್ ರೈಡರ್ಸ್"],
+["New Zealand / ನ್ಯೂಜಿಲ್ಯಾಂಡ್","England / ಇಂಗ್ಲೆಂಡ್","South Africa / ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ","Australia / ಆಸ್ಟ್ರೇಲಿಯಾ"],
+["Stroke / ಪಾರ್ಶ್ವವಾಯು (ಸ್ಟ್ರೋಕ್)","Alzheimer's / ಆಲ್ಝೈಮರ್ಸ್","Parkinson's / ಪಾರ್ಕಿನ್ಸನ್ಸ್","Epilepsy / ಅಪಸ್ಮಾರ (ಫಿಟ್ಸ್)"],
+["Bidadi Industrial Area / ಬಿದದಿ ಕೈಗಾರಿಕಾ ಪ್ರದೇಶ","Peenya Industrial Area / ಪೀಣ್ಯ ಕೈಗಾರಿಕಾ ಪ್ರದೇಶ","Baikampady / ಬೈಕಂಪಾಡಿ","Narasapura / ನರಸಾಪುರ"],
+["BWSSB (Bengaluru) / ಬಿಡಬ್ಲ್ಯೂಎಸ್ಎಸ್‌ಬಿ (ಬೆಂಗಳೂರು)","KUWSDB / ಕೆಉಡಬ್ಲ್ಯೂಎಸ್‌ಡಿಬಿ","Mysuru City Corporation / ಮೈಸೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ","Hubballi-Dharwad Water Board / ಹುಬ್ಬಳ್ಳಿ-ಧಾರವಾಡ ಜಲಮಂಡಳಿ"],
+["FATF (Financial Action Task Force) / ಎಫ್‌ಎಟಿಎಫ್","Interpol / ಇಂಟರ್‌ಪೋಲ್","World Bank Group / ವಿಶ್ವ ಬ್ಯಾಂಕ್","IMF / ಐಎಂಎಫ್"],
+["Low-cost eco-friendly suspension technology / ಕಡಿಮೆ ವೆಚ್ಚದ ತೂಗುಸೇತುವೆ ತಂತ್ರಜ್ಞಾನ","Pre-stressed Concrete Girders / ಪ್ರಿ-ಸ್ಟ್ರೆಸ್ಡ್ ಕಾಂಕ್ರೀಟ್","Bamboo Fiber Cable Mesh / ಬಿದಿರಿನ ಕೇಬಲ್ ಫೈಬರ್","Floating Pontoon Modulars / ಫ್ಲೋಟಿಂಗ್ ಪಾಂಟೂನ್"],
+["Royal Challengers Bengaluru / ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು","Delhi Capitals / ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್","Mumbai Indians / ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್","Gujarat Giants / ಗುಜರಾತ್ ಜೈಂಟ್ಸ್"],
+["Sanju Samson / ಸಂಜು ಸ್ಯಾಮ್ಸನ್","Jasprit Bumrah / ಜಸ್‌ಪ್ರೀತ್ ಬುಮ್ರಾ","Hardik Pandya / ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ","Suryakumar Yadav / ಸೂರ್ಯಕುಮಾರ್ ಯಾದವ್"],
+["Yoga for Healthy Ageing / ಆರೋಗ್ಯಕರ ವೃದ್ಧಾಪ್ಯಕ್ಕಾಗಿ ಯೋಗ","Yoga for One Earth, One Family / ಒಂದೇ ಭೂಮಿ, ಒಂದೇ ಕುಟುಂಬಕ್ಕಾಗಿ ಯೋಗ","Yoga for Women Empowerment / ಮಹಿಳಾ ಸಬಲೀಕರಣಕ್ಕಾಗಿ ಯೋಗ","Yoga for Global Peace / ಜಾಗತಿಕ ಶಾಂತಿಗಾಗಿ ಯೋಗ"],
+["Hampi, Mysuru, and Lakkundi / ಹಂಪಿ, ಮೈಸೂರು ಮತ್ತು ಲಕ್ಕುಂಡಿ","Badami, Pattadakal, and Aihole / ಬಾದಾಮಿ, ಪಟ್ಟದಕಲ್ಲು ಮತ್ತು ಐಹೊಳೆ","Belur, Halebidu, and Somanathapura / ಬೇಲೂರು, ಹಳೇಬೀಡು ಮತ್ತು ಸೋಮನಾಥಪುರ","Gokarna, Murudeshwar, and Udupi / ಗೋಕರ್ಣ, ಮುರುಡೇಶ್ವರ ಮತ್ತು ಉಡುಪಿ"],
+["UN Military Gender Advocate of the Year / ಯುಎನ್ ಮಿಲಿಟರಿ ಜೆಂಡರ್ ಅಡ್ವೊಕೇಟ್ ಪ್ರಶಸ್ತಿ","UNESCO Peace Medal / ಯುನೆಸ್ಕೋ ಶಾಂತಿ ಪದಕ","Global Valor Cross / ಗ್ಲೋಬಲ್ ವ್ಯಾಲರ್ ಕ್ರಾಸ್","Dag Hammarskjöld Medal / ಡಾಗ್ ಹ್ಯಾಮರ್‌ಶೋಲ್ಡ್ ಪದಕ"],
+["Ahmedabad / ಅಹಮದಾಬಾದ್","Bengaluru / ಬೆಂಗಳೂರು","New Delhi / ನವದೆಹಲಿ","Chandigarh / ಚಂಡೀಗಢ"],
+["Gurindervir Singh / ಗುರಿಂದರ್ವೀರ್ ಸಿಂಗ್","Amlan Borgohain / ಅಮಲನ್ ಬೊರ್ಗೊಹೈನ್","Manikanta Hoblidhar / ಮಣಿಕಂಠ ಹೊಬ್ಲಿಧರ್","Muhammed Anas / ಮುಹಮ್ಮದ್ ಅನಸ್"],
+["Pune (Civil Court Station) / ಪುಣೆ (ಸಿವಿಲ್ ಕೋರ್ಟ್ ನಿಲ್ದಾಣ)","Kolkata / ಕೋಲ್ಕತಾ","Mumbai / ಮುಂಬೈ","Delhi / ದೆಹಲಿ"],
+["Uttarakhand / ಉತ್ತರಾಖಂಡ","Himachal Pradesh / ಹಿಮಾಚಲ ಪ್ರದೇಶ","Assam / ಅಸ್ಸಾಂ","Gujarat / ಗುಜರಾತ್"],
+["42nd / 42ನೇ ಸ್ಥಾನ","38th / 38ನೇ ಸ್ಥಾನ","51st / 51ನೇ ಸ್ಥಾನ","45th / 45ನೇ ಸ್ಥಾನ"],
+["Telangana / ತೆಲಂಗಾಣ","Karnataka / ಕರ್ನಾಟಕ","Kerala / ಕೇರಳ","Andhra Pradesh / ಆಂಧ್ರಪ್ರದೇಶ"],
+["Telangana / ತೆಲಂಗಾಣ","Rajasthan / ರಾಜಸ್ಥಾನ","Maharashtra / ಮಹಾರಾಷ್ಟ್ರ","Gujarat / ಗುಜರಾತ್"]
+];
 const container = document.getElementById('questions');
 let number = 0;
-container.innerHTML = paper20.map(([section, questions]) => `<section class="paper-section"><h3>${section}</h3>${questions.map(([en, kn, answerEn, answerKn]) => { number += 1; return `<article class="review-item"><h4>${number}. ${en}<br><span lang="kn">ಪ್ರಶ್ನೆ ${number}. ${kn}</span></h4><p><strong>Answer / ಉತ್ತರ:</strong> <span class="correct">${answerEn} / ${answerKn}</span></p></article>`; }).join('')}</section>`).join('');
-document.getElementById('progress').textContent = `${number} questions and answers / ಪ್ರಶ್ನೆಗಳು ಮತ್ತು ಉತ್ತರಗಳು`;
+container.innerHTML = paper20.map(([section, questions]) => `<section class="paper-section"><h3>${section}</h3>${questions.map(([en, kn, answerEn, answerKn], questionIndex) => {
+  const localChoices = questions.filter((_, index) => index !== questionIndex).map(([, , enAnswer, knAnswer]) => `${enAnswer} / ${knAnswer}`);
+  const options = suppliedOptions[number] || [`${answerEn} / ${answerKn}`, ...localChoices.filter(choice => choice !== `${answerEn} / ${answerKn}`).slice(0, 3)];
+  number += 1;
+  return `<article class="question paper20-question"><h3>${number}. ${en}<br><span lang="kn">ಪ್ರಶ್ನೆ ${number}. ${kn}</span></h3><div class="options">${options.map((option, optionNumber) => `<div class="option"><strong>${'ABCD'[optionNumber]})</strong><span>${option}</span></div>`).join('')}</div><p class="summary-line"><strong>Correct answer / ಸರಿಯಾದ ಉತ್ತರ:</strong> <span class="correct">A) ${options[0]}</span></p></article>`;
+}).join('')}</section>`).join('');
+document.getElementById('progress').textContent = `${number} questions with four options / ನಾಲ್ಕು ಆಯ್ಕೆಗಳಿರುವ ಪ್ರಶ್ನೆಗಳು`;
