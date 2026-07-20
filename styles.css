@@ -45,6 +45,28 @@ h1 { margin: 0 0 12px; font-size: clamp(2rem, 5vw, 3.6rem); }
 .hidden { display: none; }
 .home-card { text-align: center; }
 .home-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 18px 0; }
+.all-pages {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 0 18px;
+}
+.all-pages a {
+  min-width: 42px;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: var(--brand);
+  font-weight: 800;
+  text-decoration: none;
+  background: #fbfdff;
+}
+.all-pages a:hover, .all-pages a[aria-current="page"] {
+  border-color: var(--brand);
+  color: #fff;
+  background: var(--brand);
+}
 .note, footer { color: var(--muted); }
 .quiz-top { display: flex; justify-content: space-between; gap: 12px; align-items: center; flex-wrap: wrap; }
 .progress { font-weight: 800; color: var(--brand); }
