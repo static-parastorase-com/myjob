@@ -20,7 +20,18 @@
     </section>
     <section class="card" aria-live="polite">
       <div class="quiz-top"><h2>KEA Police Constable Model Paper 20 / ಕೆಇಎ ಪೊಲೀಸ್ ಕಾನ್ಸ್‌ಟೇಬಲ್ ಮಾದರಿ ಪ್ರಶ್ನೆ ಪತ್ರಿಕೆ 20</h2><div id="progress" class="progress"></div></div>
-      <div id="questions"></div>
+      <form id="quizForm"></form>
+      <div class="actions">
+        <button id="submitTest" class="primary" type="button">Final Submit / ಅಂತಿಮ ಸಲ್ಲಿಕೆ</button>
+        <button id="resetTest" class="secondary" type="button">Reset / ಮರುಪ್ರಾರಂಭ</button>
+      </div>
+    </section>
+    <section id="result" class="card hidden">
+      <h2>Final Score / ಅಂತಿಮ ಅಂಕ</h2>
+      <div id="scoreBox" class="score-box"></div>
+      <div class="method"><p><strong>Score = Correct answers × 1 mark − Wrong answers × 0.25 mark.</strong><br>ಅಂಕ = ಸರಿಯಾದ ಉತ್ತರಗಳು × 1 − ತಪ್ಪು ಉತ್ತರಗಳು × 0.25.</p></div>
+      <h3>Correct Answers / ಸರಿಯಾದ ಉತ್ತರಗಳು</h3>
+      <div id="review"></div>
     </section>
   </main>
   <footer><p>Practice for Karnataka Police Constable aspirants. Verify official syllabus and notifications before the real exam.</p></footer>

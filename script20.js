@@ -53,12 +53,41 @@ const suppliedOptions = [
 ["Telangana / ತೆಲಂಗಾಣ","Karnataka / ಕರ್ನಾಟಕ","Kerala / ಕೇರಳ","Andhra Pradesh / ಆಂಧ್ರಪ್ರದೇಶ"],
 ["Telangana / ತೆಲಂಗಾಣ","Rajasthan / ರಾಜಸ್ಥಾನ","Maharashtra / ಮಹಾರಾಷ್ಟ್ರ","Gujarat / ಗುಜರಾತ್"]
 ];
-const container = document.getElementById('questions');
+const form = document.getElementById('quizForm');
+const result = document.getElementById('result');
+const progress = document.getElementById('progress');
+const scoreBox = document.getElementById('scoreBox');
+const review = document.getElementById('review');
+const quizQuestions = [];
 let number = 0;
-container.innerHTML = paper20.map(([section, questions]) => `<section class="paper-section"><h3>${section}</h3>${questions.map(([en, kn, answerEn, answerKn], questionIndex) => {
+form.innerHTML = paper20.map(([section, questions]) => `<section class="paper-section"><h3>${section}</h3>${questions.map(([en, kn, answerEn, answerKn], questionIndex) => {
   const localChoices = questions.filter((_, index) => index !== questionIndex).map(([, , enAnswer, knAnswer]) => `${enAnswer} / ${knAnswer}`);
   const options = suppliedOptions[number] || [`${answerEn} / ${answerKn}`, ...localChoices.filter(choice => choice !== `${answerEn} / ${answerKn}`).slice(0, 3)];
+  const questionNumber = number;
   number += 1;
-  return `<article class="question paper20-question"><h3>${number}. ${en}<br><span lang="kn">ಪ್ರಶ್ನೆ ${number}. ${kn}</span></h3><div class="options">${options.map((option, optionNumber) => `<div class="option"><strong>${'ABCD'[optionNumber]})</strong><span>${option}</span></div>`).join('')}</div><p class="summary-line"><strong>Correct answer / ಸರಿಯಾದ ಉತ್ತರ:</strong> <span class="correct">A) ${options[0]}</span></p></article>`;
+  quizQuestions.push({ en, kn, options, answer: 0 });
+  return `<fieldset class="question paper20-question"><legend>${questionNumber + 1}. ${en}<br><span lang="kn">ಪ್ರಶ್ನೆ ${questionNumber + 1}. ${kn}</span></legend><div class="options">${options.map((option, optionNumber) => `<label class="option"><input type="radio" name="q${questionNumber}" value="${optionNumber}" required><span><strong>${'ABCD'[optionNumber]})</strong> ${option}</span></label>`).join('')}</div></fieldset>`;
 }).join('')}</section>`).join('');
-document.getElementById('progress').textContent = `${number} questions with four options / ನಾಲ್ಕು ಆಯ್ಕೆಗಳಿರುವ ಪ್ರಶ್ನೆಗಳು`;
+progress.textContent = `${number} questions / ಪ್ರಶ್ನೆಗಳು`;
+
+function showResult() {
+  const picks = quizQuestions.map((_, index) => form.querySelector(`input[name="q${index}"]:checked`));
+  if (picks.includes(null)) {
+    alert(`Please answer all ${quizQuestions.length} questions. / ದಯವಿಟ್ಟು ಎಲ್ಲಾ ${quizQuestions.length} ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.`);
+    return;
+  }
+  const correct = picks.filter((pick, index) => Number(pick.value) === quizQuestions[index].answer).length;
+  const wrong = quizQuestions.length - correct;
+  const score = Math.max(0, correct - wrong * 0.25);
+  scoreBox.innerHTML = `${score.toFixed(2)} / ${quizQuestions.length} marks<br><small>Correct / ಸರಿ: ${correct}; Wrong / ತಪ್ಪು: ${wrong}; Negative / ಋಣಾತ್ಮಕ: ${wrong} × 0.25</small>`;
+  review.innerHTML = quizQuestions.map((question, index) => `<article class="review-item"><h4>${index + 1}. ${question.en}<br><span lang="kn">ಪ್ರಶ್ನೆ ${index + 1}. ${question.kn}</span></h4><p>Correct answer / ಸರಿಯಾದ ಉತ್ತರ: <span class="correct">A) ${question.options[question.answer]}</span></p></article>`).join('');
+  result.classList.remove('hidden');
+  result.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+document.getElementById('submitTest').addEventListener('click', showResult);
+document.getElementById('resetTest').addEventListener('click', () => {
+  form.reset();
+  result.classList.add('hidden');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
